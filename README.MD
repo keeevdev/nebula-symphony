@@ -1,5 +1,3 @@
-[![GitHub Profile](https://github.com/keeevdev.png)](https://github.com/keeevdev)
-
 # Nebula Symphony – VS Code Theme
 
 Nebula Symphony is a collection of themes for Visual Studio Code inspired by the aesthetics of space and the beauty of a visual symphony. Designed to offer an immersive experience and optimal readability, our themes combine elegance and functionality to suit various work environments.
