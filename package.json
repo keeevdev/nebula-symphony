@@ -2,7 +2,7 @@
     "name": "nebula-symphony",
     "displayName": "Nebula Symphony",
     "description": "Una colección de temas para VS Code: Nebula Symphony Dark y Ultimate Light, inspirados en la estética del espacio y la sinfonía visual.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "keevdev",
     "icon": "assets/icon.png",
     "engines": {
@@ -11,7 +11,7 @@
     "categories": ["Themes"],
     "repository": {
       "type": "git",
-      "url": "https://github.com/keevdev/nebula-symphony.git"
+      "url": "https://github.com/keeevdev/nebula-symphony.git"
     },
     "contributes": {
       "themes": [
