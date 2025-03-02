@@ -2,6 +2,17 @@
 
 Nebula Symphony is a collection of themes for Visual Studio Code inspired by the aesthetics of space and the beauty of a visual symphony. Designed to offer an immersive experience and optimal readability, our themes combine elegance and functionality to suit various work environments.
 
+## Screenshots
+
+### Dark Mode
+![Nebula Symphony Dark](https://raw.githubusercontent.com/keeevdev/nebula-symphony/main/screenshots/code.png)
+
+### Light Mode
+![Nebula Symphony Light](https://raw.githubusercontent.com/keeevdev/nebula-symphony/main/screenshots/code1.png)
+
+### Editor Preview
+![Editor Preview](https://raw.githubusercontent.com/keeevdev/nebula-symphony/main/screenshots/screen.png)
+
 ## Included Themes
 - **Nebula Symphony Dark:**  
   A dark theme ideal for low-light environments, reducing eye strain and improving contrast during long coding sessions.
@@ -43,17 +54,6 @@ Nebula Symphony features a carefully curated color palette inspired by cosmic vi
 - **Syntax Highlighting:**  
   - Extensive token definitions ensure that different programming languages display consistent and visually appealing syntax highlighting.
   - Semantic highlighting differentiates language constructs based on their roles, enhancing code readability and structure.
-
-## Screenshots
-
-### Dark Mode
-![Nebula Symphony Dark](https://raw.githubusercontent.com/keeevdev/nebula-symphony/main/screenshots/code.png)
-
-### Light Mode
-![Nebula Symphony Light](https://raw.githubusercontent.com/keeevdev/nebula-symphony/main/screenshots/code1.png)
-
-### Editor Preview
-![Editor Preview](https://raw.githubusercontent.com/keeevdev/nebula-symphony/main/screenshots/screen.png)
 
 ## Installation
 
