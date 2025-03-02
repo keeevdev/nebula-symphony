@@ -1,16 +1,22 @@
-# Nebula Symphony 🌌🎶
+# Nebula Symphony
 
-Nebula Symphony es una colección de temas para Visual Studio Code inspirados en la estética del espacio y la sinfonía visual.
+[Nebula Symphony on VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Keevdev.nebula-symphony)
 
-## 🎨 Temas incluidos:
-- **Nebula Symphony Dark** 🌑
-- **Nebula Symphony Light** ☀️
+Nebula Symphony is a collection of Visual Studio Code themes inspired by the aesthetics of space and visual symphony.
 
-## 📸 Capturas de pantalla
+## Included Themes
+- **Nebula Symphony Dark**
+- **Nebula Symphony Light**
 
-## 🔧 Instalación
-1. Abre VS Code.
-2. Busca **Nebula Symphony** en la pestaña de Extensiones.
-3. Instala y selecciona el tema desde `Preferencias > Color Theme`.
+## Screenshots
 
-¡Disfruta programando con estilo! 🚀
+![Nebula Symphony Dark](screenshots/code.png)  
+![Nebula Symphony Light](screenshots/code1.png)  
+![Editor Preview](screenshots/screen.png)  
+
+## Installation
+1. Open Visual Studio Code.
+2. Search for **Nebula Symphony** in the Extensions tab.
+3. Install and select the theme from `Preferences > Color Theme`.
+
+Enjoy coding with style!
