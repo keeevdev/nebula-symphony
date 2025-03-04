@@ -2,7 +2,7 @@
     "name": "nebula-symphony",
     "displayName": "Nebula Symphony",
     "description": "A collection of themes for VS Code: Nebula Symphony Dark and Ultimate Light, inspired by the aesthetics of space and the visual symphony.",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "publisher": "keevdev",
     "icon": "assets/icon.png",
     "engines": {
